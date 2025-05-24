@@ -7,14 +7,14 @@
     "platforms": [
       "ios"
     ],
-    "version": "1.6.1",
+    "version": "1.7.0",
     "orientation": "default",
     "primaryColor": "#00a4dc",
     "backgroundColor": "#101010",
-    "icon": "./assets/images/icon.png",
+    "icon": "./node_modules/@jellyfin/ux-ios/icon.png",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./node_modules/@jellyfin/ux-ios/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#101010"
     },
@@ -26,7 +26,7 @@
       "**/*"
     ],
     "ios": {
-      "buildNumber": "1.6.1.0",
+      "buildNumber": "1.7.0.0",
       "supportsTablet": true,
       "requireFullScreen": false,
       "bundleIdentifier": "org.jellyfin.expo",
