@@ -8,7 +8,8 @@
         "unknown": "Անհայտ",
         "openInFiles": "Բացել ֆայլերի Մեջ",
         "play": "Միացնել",
-        "share": "Փոխանցել"
+        "share": "Փոխանցել",
+        "alpha": "ԱԼՖԱ"
     },
     "headings": {
         "addServer": "Սերվեր ավելացնել",
@@ -51,5 +52,10 @@
     },
     "serverHelp": {
         "heading": "Ի՟նչ է Jellyfin-ը"
+    },
+    "downloads": {
+        "noDownloads": {
+            "heading": "Ներբեռնումներ չկան"
+        }
     }
 }
